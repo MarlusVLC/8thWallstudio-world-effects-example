@@ -131,7 +131,7 @@
           "desktop": "disabled",
           "headset": "disabled",
           "world": {
-            "scale": "absolute"
+            "scale": "responsive"
           }
         }
       },
